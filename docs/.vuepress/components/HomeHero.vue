@@ -33,7 +33,7 @@
   </div>
 </template>
 
-<script setup lang="ts">
+<script setup>
 import { computed } from 'vue'
 
 const heroImage = computed(() => '/logo.png')
@@ -68,7 +68,7 @@ const features = computed(() => [
   },
 ])
 
-function getFeatureIcon(index: number): string {
+function getFeatureIcon(index) {
   const icons = ['🎯', '💡', '🚀']
   return icons[index] || '✨'
 }
