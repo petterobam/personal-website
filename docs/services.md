@@ -177,9 +177,9 @@
 
 如果您对任何服务感兴趣，或者有任何问题，欢迎联系我：
 
-- **邮箱**：your-email@example.com
-- **GitHub**：https://github.com/your-username
-- **微信**：your-wechat-id
+- **邮箱**：1460300366@qq.com
+- **GitHub**：https://github.com/petterobam
+- **微信**：petterObam
 
 ---
 

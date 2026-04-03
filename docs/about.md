@@ -6,7 +6,7 @@
 
 ## 我是谁
 
-我是真空中的球形鸡，一名 AIGC 技术咨询专家，专注于帮助中小企业落地 AIGC，降低内容成本，提升效率。
+我是无何有，一名 AIGC 技术咨询专家，专注于帮助中小企业落地 AIGC，降低内容成本，提升效率。
 
 ### 我的背景
 
@@ -145,6 +145,6 @@ AI 技术发展迅速，持续学习：
 
 如果你正在考虑落地 AIGC，或者有任何问题，欢迎联系我：
 
-- **邮箱**：your-email@example.com
-- **GitHub**：https://github.com/your-username
-- **微信**：your-wechat-id
+- **邮箱**：1460300366@qq.com
+- **GitHub**：https://github.com/petterobam
+- **微信**：petterObam

@@ -88,4 +88,4 @@
 获取最新的技术文章：
 
 - **RSS**：https://yourname.github.io/rss.xml
-- **邮件订阅**：[点击订阅](mailto:your-email@example.com?subject=订阅技术文章)
+- **邮件订阅**：[点击订阅](mailto:1460300366@qq.com?subject=订阅技术文章)

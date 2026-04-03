@@ -140,9 +140,9 @@ home: false
 
 如果你正在考虑落地 AIGC，或者有任何问题，欢迎联系我：
 
-- **邮箱**：your-email@example.com
-- **GitHub**：https://github.com/your-username
-- **微信**：your-wechat-id
+- **邮箱**：1460300366@qq.com
+- **GitHub**：https://github.com/petterobam
+- **微信**：petterObam
 
 ---
 
@@ -151,7 +151,7 @@ home: false
 获取最新的 AIGC 落地实战案例和技术文章：
 
 - **RSS**：https://yourname.github.io/rss.xml
-- **邮件订阅**：[点击订阅](mailto:your-email@example.com?subject=订阅博客)
+- **邮件订阅**：[点击订阅](mailto:1460300366@qq.com?subject=订阅博客)
 
 ---
 

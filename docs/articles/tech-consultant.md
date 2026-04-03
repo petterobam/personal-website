@@ -706,7 +706,7 @@ AIGC 技术更新快，需要持续学习新知识。但不要害怕，学习是
 ---
 
 **联系方式**
-- 邮箱：your-email@example.com
+- 邮箱：1460300366@qq.com
 - 知乎：https://zhihu.com/people/your-id
 - GitHub：https://github.com/your-id
 
